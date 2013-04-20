@@ -1,0 +1,55 @@
+<bibliotheque count="6">
+	<livre>
+		<id>1</id>
+		<nom>Peter Pan</nom>
+		<auteur>J.M Barrie</auteur>
+		<editeur>Librio</editeur>
+		<prix>2</prix>
+		<resume>Peter Pan enleve Wendy et ses freres. Il les conduit au Pays Imaginaire ou il regne en maitre sur les enfants abandonnes. La lutte contre le Capitaine Crochet est sans merci. La jalousie de la fee Clochette est sans pitie pour Wendy... Et le devouement de Wendy pour les enfants sans mere est sans limite.</resume>
+		<stock>100</stock>
+	</livre>
+	<livre>
+		<id>2</id>
+		<nom>Candide</nom>
+		<auteur>Voltaire</auteur>		
+		<prix>12</prix>
+		<resume>Candide, le fils suppose de la soeur du baron de Thunder-Ten-Tronckh, vit dans l innocence d une jeunesse protege par l enseignement de son precepeteur, Pangloss. Pour ce dernier tout est au mieux.</resume>
+		<stock>100</stock>
+	</livre>
+	<livre>
+		<id>3</id>
+		<nom>Le Mariage de Figaro</nom>
+		<auteur>Beaumarchais</auteur>
+		<editeur>Librio</editeur>
+		<prix>2</prix>
+		<resume>Oubliant les nombreux services que son valet Figaro lui a rendus dans Le Barbier de Seville, le comte Almaviva tente de lui derober sa fiancee Suzanne. Avec l ingeniosite de celle-ci et l aide de la comtesse, Figaro obtiendra-t-il enfin la main de celle que il aime ? </resume>
+		<stock>100</stock>
+	</livre>
+	<livre>
+		<id>4</id>
+		<nom>Pierrette</nom>
+		<auteur>Balzac</auteur>
+		<editeur>Librio</editeur>
+		<prix>2</prix>
+		<resume>Merciers retraites, et tous deux celibataires, Sylvie et Jerome-Denis Rogron recueillent dans leur maison de Provins Pierrette Lorrain, une parente eloignee.</resume>
+		<stock>100</stock>
+	</livre>
+	<livre>
+		<id>5</id>
+		<nom>Les Precieuses Ridicules</nom>
+		<auteur>Moliere</auteur>
+		<editeur>Librio</editeur>
+		<prix>2</prix>
+		<resume>Deux provinciales, la tete farcie de romans, debarquent a Paris en quete de princes charmants et de succes mondains. Meprisant deux honnetes pretendants qui leur parlaient mariage, elles succombent au charme tapageur de deux galants enrubannes qui leur promettent amour et gloire... </resume>
+		<stock>100</stock>
+	</livre>
+	<livre>
+		<id>6</id>
+		<nom>Magicien d'Oz</nom>
+		<auteur>Frank Baum</auteur>
+		<editeur>Librio</editeur>
+		<prix>2</prix>
+		<resume>Dorothee, la petite orpheline au rire cristallin, vit avec son chien Toto dans une ferme retiree du Kansas, aupres de son oncle Henri et de sa tante Em. Rien ne semble devoir perturber son existence paisible et joyeuse...jusqu au jour ou un formidable cyclone vient tout bouleverser.</resume>
+		<stock>100</stock>
+	</livre>
+</bibliotheque>
